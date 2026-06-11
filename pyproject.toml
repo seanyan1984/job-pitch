@@ -1,7 +1,7 @@
 [project]
 name = "boss-pitch"
 version = "0.1.0"
-description = "BOSS 直聘精品投递 CLI 工具 — 采集 JD → 生成个性化话术 → 精准发送 → 验证送达"
+description = "BOSS 直聘 AI 个性化投递 CLI 工具 — 采集 JD → 生成个性化话术 → 精准发送 → 验证送达"
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.10"
