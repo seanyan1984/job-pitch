@@ -1,0 +1,19 @@
+# 此文件由 boss-pitch init 命令自动生成
+# 你可以手动编辑调整
+
+name: ""           # 姓名
+title: ""          # 当前职位
+years_experience: 0
+skills: []         # 核心技能列表
+highlights: []     # 核心亮点（每条一句话）
+experience:        # 工作经历摘要
+  - company: ""
+    role: ""
+    duration: ""
+    keywords: []
+desired_salary: ""    # 期望薪资范围
+desired_cities: []    # 期望城市
+pitch_rules:
+  max_length: 80      # 话术最大字数
+  avoid_ai_tone: true # 去 AI 味
+  greeting_style: professional
