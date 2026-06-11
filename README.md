@@ -34,7 +34,7 @@ pip install job-pitch
 uv tool install .
 ```
 
-需要 Chrome 或 Edge 浏览器（CDP 远程调试模式）。
+需要 Chrome 或 Edge 浏览器。通过 CDP（Chrome DevTools Protocol）直连已打开的浏览器操作，不是无头浏览器——用的是你真实登录的浏览器环境，更安全，不容易被反爬检测到。
 
 ## 使用
 
